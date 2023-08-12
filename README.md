@@ -1,5 +1,5 @@
 #### Hi there 👋
-
+![[LinkedIn](https://badgen.net/badge/View/LinkedIn/blue)](www.linkedin.com/in/artist-who-codes)
 
 <!--
 **artist-who-codes/artist-who-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
