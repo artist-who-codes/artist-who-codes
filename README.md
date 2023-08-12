@@ -1,6 +1,6 @@
 #### Hi there 👋
-![[LinkedIn](https://badgen.net/badge/View/LinkedIn/blue)](www.linkedin.com/in/artist-who-codes)
-
+[![LinkedIn](https://badgen.net/badge/View%20My/LinkedIn/blue)](www.linkedin.com/in/artist-who-codes)
+[![Portfolio](https://badgen.net/badge/View%20My/Portfolio/white)](https://artist-who-codes.vercel.app/)
 <!--
 **artist-who-codes/artist-who-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
